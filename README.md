@@ -1,4 +1,4 @@
-# Group26_Ph4_Project_Real_Estate_Value_Prediction_for_Different_Locations
+# ARIMA & FB PROPHET MODELS ON_Real_Estate_Value_Prediction_for_Different_Locations
 ## 1.0 Business Understanding
 
 MDN real estate investment firm is currently looking to expand their horizons and invest in different locations that are predicted to do well in the next few years. The company wants to do their due diligence and have data drive their decisions
